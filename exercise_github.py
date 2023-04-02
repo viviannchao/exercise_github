@@ -5,3 +5,6 @@ def hello():
 
 def weather():
     return("the weather is windy")
+
+def goodbye():
+    return("goodbye")
